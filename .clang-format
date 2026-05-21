@@ -12,6 +12,7 @@ FixNamespaceComments: false
 IndentAccessModifiers: false
 IndentPPDirectives: BeforeHash
 IndentWidth: 4
+InsertBraces: true
 PointerAlignment: Left
 TabWidth: 4
 UseTab: Always
